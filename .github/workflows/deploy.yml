@@ -1,0 +1,44 @@
+name: Deploy to Server
+
+on:
+  # Запуск после успешной CI сборки
+  workflow_run:
+    workflows: ["CI/CD Pipeline"]
+    types: [completed]
+    branches: [main]
+  
+  # Ручной запуск
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_USER }}
+          key: ${{ secrets.DEPLOY_SSH_KEY }}
+          script: |
+            # Войти в GHCR
+            echo "${{ secrets.GHCR_TOKEN }}" | docker login ghcr.io -u ${{ secrets.GHCR_USER }} --password-stdin
+            
+            # Перейти в директорию с docker-compose.yml
+            cd ${{ secrets.DEPLOY_PATH || '/home/deployer/deploy/is-stack' }}
+            
+            # Скачать новые образы
+            docker compose pull
+            
+            # Перезапустить сервисы
+            docker compose up -d
+            
+            # Очистить старые образы
+            docker image prune -f
+            
+            # Показать статус
+            docker compose ps
