@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\is-labs\\lab4\\IsLabApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|c:\\is-labs\\lab4\\islabapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|c:\\is-labs\\lab4\\islabapp\\dbhealthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|solutionrelative:dbhealthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|c:\\is-labs\\lab4\\islabapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|c:\\is-labs\\lab4\\islabapp\\islabapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|solutionrelative:islabapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|c:\\is-labs\\lab4\\islabapp\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|solutionrelative:note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|c:\\is-labs\\lab4\\islabapp\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|solutionrelative:notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|c:\\is-labs\\lab4\\islabapp\\createnotedto.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA2428F-3B5D-9E3B-510C-B1C0C5E6A040}|IsLabApp.csproj|solutionrelative:createnotedto.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbHealthService.cs",
+              "DocumentMoniker": "C:\\is-labs\\lab4\\IsLabApp\\DbHealthService.cs",
+              "RelativeDocumentMoniker": "DbHealthService.cs",
+              "ToolTip": "C:\\is-labs\\lab4\\IsLabApp\\DbHealthService.cs",
+              "RelativeToolTip": "DbHealthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:34:02.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IsLabApp.csproj",
+              "DocumentMoniker": "C:\\is-labs\\lab4\\IsLabApp\\IsLabApp.csproj",
+              "RelativeDocumentMoniker": "IsLabApp.csproj",
+              "ToolTip": "C:\\is-labs\\lab4\\IsLabApp\\IsLabApp.csproj",
+              "RelativeToolTip": "IsLabApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T12:30:56.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\is-labs\\lab4\\IsLabApp\\NotesController.cs",
+              "RelativeDocumentMoniker": "NotesController.cs",
+              "ToolTip": "C:\\is-labs\\lab4\\IsLabApp\\NotesController.cs",
+              "RelativeToolTip": "NotesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA9wDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:28:47.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateNoteDto.cs.cs",
+              "DocumentMoniker": "C:\\is-labs\\lab4\\IsLabApp\\CreateNoteDto.cs.cs",
+              "RelativeDocumentMoniker": "CreateNoteDto.cs.cs",
+              "ToolTip": "C:\\is-labs\\lab4\\IsLabApp\\CreateNoteDto.cs.cs",
+              "RelativeToolTip": "CreateNoteDto.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:28:20.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\is-labs\\lab4\\IsLabApp\\Note.cs",
+              "RelativeDocumentMoniker": "Note.cs",
+              "ToolTip": "C:\\is-labs\\lab4\\IsLabApp\\Note.cs",
+              "RelativeToolTip": "Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:27:35.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\is-labs\\lab4\\IsLabApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\is-labs\\lab4\\IsLabApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T12:23:45.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\is-labs\\lab4\\IsLabApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\is-labs\\lab4\\IsLabApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:16:05.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
